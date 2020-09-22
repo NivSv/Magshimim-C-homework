@@ -1,0 +1,2 @@
+ceasar: main.c
+	$(CC) -o $@
